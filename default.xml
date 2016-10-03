@@ -2,4 +2,6 @@
 <manifest>
   <remote name="pivet" fetch="github.com/pivetdrive"/>
   <project path="one" name="one" remote="pivet"/>
+  <project path="two" name="two" remote="pivet"/>
+  <project path="three" name="three" remote="pivet"/>
 </manifest>
