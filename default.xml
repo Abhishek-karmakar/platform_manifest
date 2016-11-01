@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="pivet" fetch="github.com/pivetdrive"/>
-  <project path="one" name="one" remote="pivet"/>
-  <project path="two" name="two" remote="pivet"/>
-  <project path="three" name="three" remote="pivet"/>
+  <project path="vendor" name="vendor" remote="pivet"/>
+  <project path="kernel" name="kernel" remote="pivet"/>
+  <project path="device" name="device" remote="pivet"/>
 </manifest>
